@@ -15,6 +15,7 @@ flask-testing = "*"
 flask = "*"
 flask-sqlalchemy = "*"
 werkzeug = "~=0.16.1"
+uwsgi = "*"
 
 [requires]
 python_version = "3.7"
